@@ -1,0 +1,50 @@
+.aboutme-link, .contact-link {
+    font-size: 30px;
+    padding: 15px;
+    display: inline-block;
+    letter-spacing: 2px
+}
+h1 {
+    font-size: 60px;
+}
+.MathTutoring {
+    text-align: center;
+    text-decoration: underline;
+}
+.bodyhome {
+    margin: auto;
+    max-width: 900px;
+    padding: 10px;
+}
+body {
+    background-image: linear-gradient(rgb(253, 253, 253),rgb(245, 126, 126),rgb(192, 7, 7)); 
+    height: 100%;
+    width: 100%;
+}
+p.border {
+    border-style: double;
+}
+#introduction {
+    font-size: 40px;
+}
+.borderli1, .borderli2, .borderli3 {
+    border-style: dotted;
+}
+.scheduleandpayment {
+    font-size: 30px;
+    text-decoration: underline;
+}
+.moreinfo {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    font-size: 30px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
